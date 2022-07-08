@@ -1,0 +1,28 @@
+carro - ribeirão preto a franca - 110km
+caminhão - franca a ribeirão preto - 80km - 2 pedágios -5 min cada
+
+quando se cruzam, quem está mais perto de ribeirão?
+
+100km entre ribeirão e franca
+
+
+Cálculo:
+
+Carro = km0 + 110km/h * t
+Caminhão = km100 - 80km/h * t
+
+Caminhão = Carro
+0 + 110 * t = 100 - 80 * t
+110 * t + 80 * t = 100
+190 * t = 100 
+  => t = 100/190 
+    => t=0.52
+
+Definindo ponto de encontro:
+
+carro = 110 * t
+carro = 110 * 0.52 => 57,2
+
+O caminhão e o carro se encontram no KM: 57,2
+
+O carro se encontra mais próximo a Ribeirão Preto do que o Caminhão
